@@ -1,3 +1,4 @@
+name: scheule
 on:
   schedule:
     - cron: '*/2 * * * *'
